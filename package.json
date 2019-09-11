@@ -1,0 +1,9 @@
+{
+    "name": "gamebot",
+    "version": "1.0.0",
+    "description": "Gamerbot suggests games based on answers to questions.",
+    "main": "bot.js",
+    "author": "imaginarycrane",
+    "dependencies": {}
+
+}
