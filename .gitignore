@@ -90,7 +90,3 @@ typings/
 .DS_Store
 
 auth.json
-
-git filter-branch --force --index-filter \
-  "git rm --cached --ignore-unmatch auth.json" \
-  --prune-empty --tag-name-filter cat -- --all
