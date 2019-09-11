@@ -4,6 +4,8 @@
     "description": "Gamebot suggests games based on answers to questions.",
     "main": "bot.js",
     "author": "imaginarycrane",
-    "dependencies": {}
-
+    "dependencies": {
+        "discord.io": "^2.5.3",
+        "winston": "^3.2.1"
+    }
 }
